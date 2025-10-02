@@ -5,7 +5,7 @@ body {
   background-position: center;
   height: 100vh;
   margin: 0;
-  padding: 0;
+  padding: 8px;
 }
 
 h1 {
@@ -24,4 +24,17 @@ p {
 li {
   color: #555;
   font-size: 30px;
+}
+
+.payment{
+  width: 150px;
+  height: auto;
+  border-radius: 50px;
+  float: right;
+}
+.art {
+  width: 300px;
+  height: auto;
+  
+  float: right;
 }
