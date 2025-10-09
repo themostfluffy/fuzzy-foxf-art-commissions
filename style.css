@@ -8,6 +8,20 @@ body {
   padding: 8px;
 }
 
+a {
+  color: #000000;
+  font-size: 30px;
+  margin-right: 20px;
+  text-decoration: none;
+  background-color: #ffffff;
+  flex-direction: column;
+  display: flex;
+  justify-content: flex-start;
+  
+  padding: 10px;
+  border-radius: 5px;
+
+}
 h1 {
   color: #000000;
 text-decoration: underline;
