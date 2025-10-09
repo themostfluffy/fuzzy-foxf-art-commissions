@@ -14,7 +14,7 @@ a {
   margin-right: 20px;
   text-decoration: none;
   background-color: #ffffff;
-  flex-direction: column;
+  flex-flow: column;
   display: flex;
   justify-content: flex-start;
   
