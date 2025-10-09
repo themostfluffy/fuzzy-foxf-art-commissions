@@ -9,15 +9,15 @@ body {
 }
 
 a {
-  color: #000000;
+  color: #007bff;
   font-size: 30px;
   margin-right: 20px;
   text-decoration: none;
-  background-color: #ffffff;
-  flex-flow: column;
-  display: flex;
-  justify-content: flex-start;
   
+  flex-direction: column;
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
   padding: 10px;
   border-radius: 5px;
 
